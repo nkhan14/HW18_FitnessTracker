@@ -59,5 +59,5 @@ There are currently no tests for this project.
 
 ## Questions
 
-Reach out to the developer atnabiha.khan@me.com if you have questions about this project.
+Reach out to the developer at nabiha.khan@me.com if you have questions about this project.
 e.
