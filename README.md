@@ -4,7 +4,7 @@
 
 The purpose of this project was to create a workout tracker that allows a user to log multiple exercises within a workout in order to live a healthier, more organized lifestyle. This project utilizes MongoDB to store user inputs.
 
-[Heroku App](ENTER HEROKU LINK HERE)
+[Heroku App](nhk-fitnesstracker.herokuapp.com)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The user does not require any installations for usage. The developer will need t
 
 The user can create a new workout, select from types of exercises, or the user can choose to continue adding exercises to an existing workout. The user can also view their overal; stats across all workouts on the Dashboard page.
 
-![Dashboard](INSERT IMAGE HERE)
+![Dashboard](/assets/img/dashboard.png)
 
 ## Contributing
 
